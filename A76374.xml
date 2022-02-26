@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extraordinary nevves from the Court of Spain: declaring the late solemnities that were perform'd in the highest way of magnificence, at the reception of the young queen, the emperors daughter; as also, of Hamet Aga Mustafera, the great Turks ambassador; together with the substance of his ambassie, and the originalls of his credentiall letters: some passages also of the English ambassadors in that court. / Sent in a large letter to a person of quality in this kingdom from Madrid.</title>
+            <author>T. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76374</idno>
+            <idno type="STC">Wing B183</idno>
+            <idno type="STC">Thomason E603_11</idno>
+            <idno type="STC">ESTC R204266</idno>
+            <idno type="EEBO-CITATION">99863893</idno>
+            <idno type="PROQUEST">99863893</idno>
+            <idno type="VID">116109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116109)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Extraordinary nevves from the Court of Spain: declaring the late solemnities that were perform'd in the highest way of magnificence, at the reception of the young queen, the emperors daughter; as also, of Hamet Aga Mustafera, the great Turks ambassador; together with the substance of his ambassie, and the originalls of his credentiall letters: some passages also of the English ambassadors in that court. / Sent in a large letter to a person of quality in this kingdom from Madrid.</title>
+                  <author>T. B.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lowndes, at the signe of the Unicorn on Lud-gate Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 13: T. B.</note>
+                  <note>Annotation on Thomason copy: "June 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spain --  History.</term>
+               <term>Spain --  Court and courtiers --  Early works to 1800.</term>
+               <term>Spain --  History --  Philip IV, 1621-1665 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116109:1" rendition="simple:additions"/>
+            <p>Extraordinary NEWES FROM The Court of Spain: DECLARING The late Solemnities that were per<g ref="char:EOLhyphen"/>form'd in the higheſt way of magnificence, at the Reception of the <hi>Young Queen, the Emperors Daughter;</hi> AS ALSO, Of <hi>Hamet Aga Muſtafera,</hi> the Great Turks Ambaſſador; together with the ſub<g ref="char:EOLhyphen"/>ſtance of his Ambaſſie, and the Originalls of his Credentiall Letters: Some Paſſages alſo of the Engliſh Ambaſsa<g ref="char:EOLhyphen"/>dors in that Court.</p>
+            <p>Sent in a large Letter to a Perſon of quality in this King<g ref="char:EOLhyphen"/>dom from <hi>MADRID.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Lowndes,</hi> at the ſigne of the Unicorn on Lud-gate Hill. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116109:2"/>
+            <pb n="1" facs="tcp:116109:2"/>
+            <head>Laus Deo.</head>
+            <opener>
+               <dateline>Madrid, <date>Iune 1. 1650.</date>
+               </dateline>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ours of the twentieth paſs'd came ſafely to hand, and with more ſpeed then ordinary: I ſend you a thouſand thanks for the variety of newes you pleaſe to impart, unto me therein, whereby I have oblig'd the beſt of our Nation in this Countrey, for we may be ſaid to have liv'd here in clouds of ignorance, touching your doings in England, till your Letter gave us ſome light.</p>
+            <p>To correſpond with you in the like kind, I returne you what this Court affords moſt remarkable, and of thoſe things whereof I have been an ocular witneſſe; the oldeſt men living here ſay, they never ſaw ſuch gal<g ref="char:EOLhyphen"/>lantries and pomp as have been lately here at the en<g ref="char:EOLhyphen"/>trance of the young Queen, who by ſpeciall diſpenſa<g ref="char:EOLhyphen"/>tion was permitted to be married to this King, notwith<g ref="char:EOLhyphen"/>ſtanding that her Mother (the Empreſſe) was his ſiſter by whole blood, and ſhould have been Queen of Eng<g ref="char:EOLhyphen"/>land, if the Devill had not broken the match; I meane
+<pb n="2" facs="tcp:116109:3"/>the Infanta <hi>Donna Maria,</hi> who is going upon her 16. and he 46. both of a faire Auſtrian complexion: Out of theſe late ſolemnities and pomp, you may infer what a prudent and well govern'd Nation this is; for though this Kings Sword be ſo long, that it reacheth every where, and is perpetually out of the Scabbard, al<g ref="char:EOLhyphen"/>though he have actuall warres with the whole power of France, and in Italie, although he have two of his owne Kingdomes in Spaine her ſelfe lately revolted quite from him, I mean Catalonia and Portugall, and that they bait him on both ſides by daily incurſions, yet here in the Court there's no appearance of any war at all, but there is as much bravery, freedome, ſecuri<g ref="char:EOLhyphen"/>ty and pleaſure, as if this King had no enemy at all; one can ſcarce ſee a thing call'd a man in buff all the Towne over: Here are at this time at leaſt half a ſcore Ambaſſadors, and among others the grand Seignior ſeems to ſtoop to this King at laſt, and ſeek his friend<g ref="char:EOLhyphen"/>ſhip, the ſubſtance of whoſe Embaſſie I ſend you here<g ref="char:EOLhyphen"/>with, together with the ſtately entrance of the young Queen: but for your better underſtanding, I will deduce her journey from the beginning.</p>
+            <p>After that the Royall Spouſe, the Imperiall Infan<g ref="char:EOLhyphen"/>ta <hi>Donna Maria de Auſtria,</hi> had departed from the City of Vienna, in a moſt ſplendid equipage, being accom<g ref="char:EOLhyphen"/>panied with the King of Hungary, and a great number of Attendants, ſhe came to Trent, where there being magnificent preparations made for her beforehand, and many triumphall new Gates and Theaters erected purpoſely to honor her ſhe reſted ſome time: Thence ſhe advanc'd her journey to Breſcia, where ſhe was in<g ref="char:EOLhyphen"/>troduced and welcom'd by the Republike of <hi>Venice</hi> in mighty great ſtate, and entertain'd all the while an <hi>S. Marks</hi> charge, the expence of the hoſpitality, amoun<g ref="char:EOLhyphen"/>ting
+<pb n="3" facs="tcp:116109:3"/>to ſeventy thouſand Duckets. From Breſcia ſhe re<g ref="char:EOLhyphen"/>mov'd to the City of Milan, where, with the King of Hungary her brother, and but thirty of her ſervants, ſhe went in privately and unknowne, by reaſon of a great glut of raine which ſtill increas'd; but when the weather grew faire, and the heavens began to ſmile again, ſhe made a ve<g ref="char:EOLhyphen"/>ry ſolemn entry, being attended by two thouſand five hundred perſons at leaſt: The Venetian State diſcharged her expences all the while for two hundred miles ſpace, there being five and twenty Waggons that were laden with all ſorts of proviſions, and ſix hundred Cuiraſſiers in compleat armor, with four hundred Horſemen beſides, that attended her all along; ſhe beſtowed upon the Lord <hi>Capello</hi> (Generall to the Venetians) a huge gold chain im<g ref="char:EOLhyphen"/>boſs'd with rich Diamonds, eſtimated at four thouſand Crownes, and ſhe gave forty gold chaines more amongſt other Officers. Moreover, Generall <hi>Capello</hi> in the name of His Imperiall Majeſty was created by the King of Hungary, Knight of the Romane Empire; ſhe beſtowed alſo on the Venetian Magiſtrates foure and twenty rich veſts of cloth of ſilver, together with huge gilt Cups, Baſons and Ewers; ſhe gave alſo a great Chriſtall Beaker full of gold, and froſted about with curious workmanſhip, to the Towne for a laſting monument: ſhe her ſelfe was preſented alſo by the Archbiſhop with two Crucifixes of Jaſper, and other precious ſtones, with divers Relikes of Saints, and rare Medaills: There were Tiltings and Horſe-fights, with artificiall fire-works appointed, where<g ref="char:EOLhyphen"/>upon the King of Hungary her brother, taking his leave very tenderly of her, and with wonderfull affection, retur<g ref="char:EOLhyphen"/>ned back to Germany againe: A little after the Apoſto<g ref="char:EOLhyphen"/>licall Nuncio preſented her with the Holy Roſe, and ma<g ref="char:EOLhyphen"/>ny rare Relikes beſides. From thence ſhe directed her courſe to Finall, the people breaking out into a thouſand
+<pb n="4" facs="tcp:116109:4"/>good wiſhes for the proſperity of her voyage, and her iſ<g ref="char:EOLhyphen"/>ſue, all the way ſhe went: But the Genowayes Ambaſſa<g ref="char:EOLhyphen"/>dor was not well intreated by the people, in regard he came late, and without any preſent, for which he was pub<g ref="char:EOLhyphen"/>likely jeer'd at and revil'd, conſidering how infinitely that Republic is beholden to the King of Spain, and that ſhe hath her well-being by him: Nor did the Queen her ſelf look upon him with any grace. From thence ſhe ſet for<g ref="char:EOLhyphen"/>ward for Papia, where ſhe was brought in by the Biſhop with a mighty deal of reverence, under a ſtately canopy, in a rich chaire of State, accompanied by <hi>Auguſtus</hi> Duke of <hi>Turſis,</hi> by <hi>Sannettino Doria,</hi> by the Duke of <hi>Anello;</hi> by Marquis <hi>Spinola,</hi> and other Generalls, in a moſt magnifi<g ref="char:EOLhyphen"/>cent equipage, and conducted to the palace of Don <hi>Diego Alvardi.</hi> The next morning betimes ſhe was ſaluted by the Cardinal <hi>Doncheus,</hi> and four Napolitan Ambaſſadors, the great pieces of Artillery thundring off ev'ry where: Then ſhe imbark'd her ſelf in a Fleet of gallies for Spain, and arriving with wondrous ſpeed at Denia in the King<g ref="char:EOLhyphen"/>dom of Valentia, ſhe was welcom'd aſhore, and enter<g ref="char:EOLhyphen"/>tain'd with much ſplendor, and unutterable joy and ap<g ref="char:EOLhyphen"/>plauſes.</p>
+            <p>But in the Court at Madrid 'tis incredible what endea<g ref="char:EOLhyphen"/>vors were made, and inventions devis'd to congratulate her coming, in raiſing up triumphant arches with ſuch art and wonderfull artifice, that the like were never beheld (as every one cryed out) by humane eyes ſince the crea<g ref="char:EOLhyphen"/>tion. The King ſtir'd himſelf notably, with <hi>Donna Maria</hi> his daughter, a Princeſſe of about thirteen yeers of age, to receive this new glorious Queen at the <hi>Eſcurial,</hi> which is eſteem'd the eighth wonder of the world, it be<g ref="char:EOLhyphen"/>ing a royall Palace, an Univerſity of it ſelf, and a Mona<g ref="char:EOLhyphen"/>ſtery containing twelve great Quadrangles, where the great Conſtable of Caſtile, with all the Grandees, and a
+<pb n="5" facs="tcp:116109:4"/>numberleſſe multitude of people attended her all along; and to do homage, or as it were pay their vowes unto her.</p>
+            <p>Afterwards the nuptiall knot being tied at Navalcar<g ref="char:EOLhyphen"/>na, four leagues diſtant from Madrid, the Royall Bride was accompanied with a gallant Retinue and Attendants, (glittering with gold and ſilver) all on horſeback, with a ſelect guard of young Noblemen Bachelors all along till ſhe arriv'd at Court; all the ancient Grandees coming in the rear in a ſolemn 'ſtately equipage, ſurrounded with La<g ref="char:EOLhyphen"/>quays and Pages clad in ſhining Liveries; they wore maſ<g ref="char:EOLhyphen"/>ſie chains and gold hat-bands, being mounted, ſome upon Cordoua Ginets, others upon Napolitan Courſers, who curveted all the way, being as it were ſenſible of joy: The Queen her ſelf had forty Laquays of all ſorts, wearing new ſorts of Mandillions, cover'd all over with gold lace that the watchet velvet underneath could hardly be ſeen: Her common Guard went in veſtments of cloth of tiſſue with rare embroyderies, ſo that the Sun could not behold a more glorious ſpectacle: For, the Spaniard hath this quality, that although his ordinary habit be plain black, yet upon a Feſtivall, or occaſion of any Triumph, there is no nation more gorgeous.</p>
+            <p>All along the ſtreets, from the <hi>Retiro</hi> (the new houſe of pleaſure) unto the Palace, the Kings Court, which was a<g ref="char:EOLhyphen"/>bove two miles, all the windowes on both ſides of the ſtreets, and all the balcones were hung either with rich Ar<g ref="char:EOLhyphen"/>ras, Turky Tapeſtry, or bright colour'd Sattins and Taffa<g ref="char:EOLhyphen"/>ta's, which wav'd up and down, to the pleaſure of the Spe<g ref="char:EOLhyphen"/>ctator: ſpecially the Plate-ſtreet, or Silver-ſtreet, was ſo embelliſh'd with ſuch various works of Argentry, veſſells of maſſie gold, with ſuch croſſes and crucifixes of preci<g ref="char:EOLhyphen"/>ous ſtones, that ev'ry ſhop ſeem'd to be a Conſtellation, which made the Turkiſh Ambaſſador, who was there pre<g ref="char:EOLhyphen"/>ſent all the while, being tranſported with a kind of aſto<g ref="char:EOLhyphen"/>niſhment
+<pb n="6" facs="tcp:116109:5"/>and admiration, to burſt out into interjections of wonder, and ſay, that in the whole courſe of his life, he never ſaw ſuch Majeſty, and opulence, ſuch curioſities and magnificence. In the corners of the ſtreets there ſtood eight pyramides, four great, and foure ſmall, ſome round, ſome quadrangular, ſome triangular; their tops very ſharp and ſpiring up, which were ſupported by triumphant ar<g ref="char:EOLhyphen"/>ches, whereof four repreſented the four parts of the world, in ev'ry one wherof the King of Spain hath ſom Territo<g ref="char:EOLhyphen"/>ries, which no Monarch yet that ever was on earth could ſay, the workmanſhip of thoſe pyramides, and triumphall arches with divers ſorts of theaters beſides, amounted, by a computation that was made, to above 64000. duckets, which was all at the coſt of the Towneſmen; who by a kind of loyall emulation, did ſtrive who ſhould expreſſe his affections moſt to his King: The Poets, and wits of the Court had many new ingenious fancies and devices up and downe, in landskips and imagery inventions, with new motto's appliable to the occaſion. In the middle of the high ſtreet was a vaſt Globe, as it were pendent in the air, wheeling about with a continuall rotation, which repre<g ref="char:EOLhyphen"/>ſented the Univerſe. There were alſo erected four curious fountains, out of which iſſued as the Queen paſs'd by ſuch fragrant odoriferous waters that did perfume the air round about for the time: there were ſundry ſorts of dancers alſo that caper'd up and down the ſtreets with bells, and knac<g ref="char:EOLhyphen"/>kers, with ſundry ſorts of Antiques: before the royall Pa<g ref="char:EOLhyphen"/>lace there were divers Theaters, where there were new Co<g ref="char:EOLhyphen"/>medies acted by women, (who were deck'd like Angells) as well as men. On both ſides of the young Queen were two huge Lions, and two Eagles, garding and conducting her all along; and there were ſuch muſicall voices in ev'ry corner of the ſtreets, that one would think the Angels had deſcended, and with ſuch raviſhing inſtruments, that one
+<pb n="7" facs="tcp:116109:5"/>would have thought <hi>Amphion</hi> or <hi>Orpheus</hi> to have been there. The King came to the upper part of the ſtairs to re<g ref="char:EOLhyphen"/>ceive his Queen, accompanied with the <hi>Infanta</hi> his daugh<g ref="char:EOLhyphen"/>ter, who went on the Queens left hand: the whole Town was all night long as bright as if it had been noon-day, by the luminaries which were up and down, and rare in<g ref="char:EOLhyphen"/>ventions of fire-works, with new ſorts of ſquibs, that kept ſuch a noiſe in the air, as if <hi>Jove</hi> had been darting his thunderbolds all the while. There was a brave eloquent Oration made before the King, the cloſe whereof was, that his Catholique Majeſty might have <hi>friendſhip</hi> with <hi>Ger<g ref="char:EOLhyphen"/>many, Concord</hi> with France, <hi>reverence</hi> with Italy, <hi>felicity</hi> out of Afia, <hi>piety</hi> in Africk, and <hi>commiſeration</hi> towards A<g ref="char:EOLhyphen"/>merica.</p>
+            <p>Their nuptiall joys were advantag'd by the preſence of the Turkiſh Ambaſſador, which then reſided in the Ca<g ref="char:EOLhyphen"/>tholique Court, and had receiv'd audience a little before, which I ſhall with faith and punctuality deliver you here<g ref="char:EOLhyphen"/>with as followeth.</p>
+            <p>
+               <hi>Hamet Aga Muſtafera</hi> embark'd for Spain at Naples, &amp; arrivnig at Valentia, he was receiv'd and entertain'd by the Count of Oropeta; thence he was accompanied to O<g ref="char:EOLhyphen"/>donio three leagues diſtant from Madrid; where to refreſh himſelf after his journey, he bath'd himſelf three times af<g ref="char:EOLhyphen"/>ter the Turkiſh manner: He is a man of a ſhrew'd penetra<g ref="char:EOLhyphen"/>ting judgment, one who hath ſtudied men, and who under<g ref="char:EOLhyphen"/>ſtands the Spaniſh tongue, though the Italian better.</p>
+            <p>Being brought to Madrid, he was admitted the next day following to his audience at Court, which was per<g ref="char:EOLhyphen"/>form'd with that ſolemnity and magnificence, as the Ma<g ref="char:EOLhyphen"/>jeſty &amp; grandeur of ſo great a Potentate, whoſe perſon he did repreſent required. Being attended with a numerous gallant train, he was brought to the royall Palace, where through fourteen ſeverall rooms ſumptuouſly garniſh'd, he
+<pb n="8" facs="tcp:116109:6"/>was brought to the Kings preſence, which room was em<g ref="char:EOLhyphen"/>belliſh'd with ſuch gemms, and ſparkling precious ſtones, with other ſhining objects, that might upon a ſuddain da<g ref="char:EOLhyphen"/>zle any beholders eyes. His Catholique Majeſty was ſea<g ref="char:EOLhyphen"/>ted in a high eminent Throne, where <hi>Charles</hi> the Roman Emperor in former Ages was ſaid to be crown'd, he was incircled round about with his Grandees, with the princi<g ref="char:EOLhyphen"/>pall Officers of his Crown; and at the foot of the Throne ſtood his Secretaries, with others of his eight Councells; and the Judges were there in their robes, in a grave decent poſture: The Ambaſſador bowing himſelfe three times, kneel'd on the third ſtair of the Throne, &amp; pronounc'd his Oration; wherein <hi>he firſt condol'd the deceaſe of his former Queen,</hi> the daughter to France; then he <hi>congratulated with expreſsions</hi> of a world of good wiſhes, his <hi>ſecond Marriage with the Imperiall</hi> Infanta; and laſtly he deſir'd ſecret Au<g ref="char:EOLhyphen"/>dience for the reſt of his Embaſſiie: After that he receded downwards, and preſented his Credentiall Letters, (his Commiſſion having been exhibited many daies before) the Letters were originally in Latin as followeth <hi>verbatim.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="lat">
+               <body>
+                  <opener>
+                     <signed>
+                        <hi>Aly Solyman,</hi> DOminus Ottomannicae Familiae, Imperator ac Dominus Dominorum, &amp; Principis Orbis Terrarum, Defenſor Legis per Prophetam noſtrum <hi>Mahometem</hi> latae, &amp; nobis de<g ref="char:EOLhyphen"/>claratae, <hi>&amp;c.</hi>
+                     </signed>
+                     <salute>Glorioſiſsimo omnium Chriſtianorum Principum, Arbitro &amp; Pacificatori Regum Chriſtianorum potentiſiſimo, &amp; omnibus Virtutibus abſolutiſsimo, <hi>Philippo Regi.</hi> Sit foelix vitae exitus, &amp; factâ inter nos pace, ſalus:</salute>
+                  </opener>
+                  <p>Laus ſplendoris omnium veſtrarum virtutum huc uſa<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> advolavit: Domine, &amp; etiamſi Leges quas profitemar diverſae ſint, tamen
+<pb n="9" facs="tcp:116109:6"/>impedimento eſſe non valuerunt, quin glorioſum veſtrum propo<g ref="char:EOLhyphen"/>ſitum non cognoverim, magni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> judicaverim. Abſit, ut hoſti<g ref="char:EOLhyphen"/>bus veſtris, qui in magno numero ſunt, adjutor factus ſim, quippe quorum actionibus me nunquam non ſubduxi, &amp; expe<g ref="char:EOLhyphen"/>ditionibus &amp; exercitibus eorum quos in procinctu habent, re<g ref="char:EOLhyphen"/>moram injeci, ut vos victorias vobis dignas reportare potueri<g ref="char:EOLhyphen"/>tis. Ex mea parte omnia peracturus ſum, quae Baſſa meus Camerarius &amp; amicus, vobiſcum tranſiget, cui plenam fidem adhibebitis. </p>
+                  <closer>
+                     <signed>Subſign'd, <hi>Dominus Mundi.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Engliſh'd thus:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>
+                        <hi>Aly Solyman,</hi> LOrd of the Ottoman Family, Emperor and Lord of Lords, and of the Princes of the earthly world, De<g ref="char:EOLhyphen"/>fender of the Law inſtituted by our Prophet <hi>Mahomet,</hi> and declar'd unto us, &amp;c.</signed>
+                     <salute>To the moſt glorious of all the Chriſtian Princes, the moſt mighty Arbiter, and Pacifier of all Chriſtian Princes, and moſt abſolute in all vertues, <hi>King Philip.</hi> May the end of your life be happy, and peace being made between us, health attend you:</salute>
+                  </opener>
+                  <p>The glory of the ſplendor of all your vertues hath flown hither: My Lord, And though the Lawes we profeſſe be different, yet they were not able to be an impediment, but that I knew, and much eſteem'd your glorious purpoſe: Far be it from me, that I ſhould be an aſſiſtant to your enemies, who are ma<g ref="char:EOLhyphen"/>ny in number; for I have withdrawn my ſelf from their expeditions, and the Armies which they have now afoot, and whereunto I have put a ſtop, that you might carry
+<pb n="10" facs="tcp:116109:7"/>away thoſe victories that are worthy of you. For my part I ſhall perform all things that my Baſſa, Chamberlain and friend ſhall tranſact with you, to whom you ſhall give full faith.</p>
+                  <closer>
+                     <signed>Subſign'd, <hi>The Lord of the World.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In his private inſtructions he propos'd theſe things fol<g ref="char:EOLhyphen"/>lowing: Firſt, the great Emperor will deliver to his royall Catholike Majeſty the Holy Sepulcher, and other ſacred places in Jeruſalem. Secondly, he is willing that a free ex<g ref="char:EOLhyphen"/>erciſe of commerce may flouriſh in all maritine ports, and that Pyrats be not tolerated hereafter any where. Thirdly, he is willing that <hi>Don John of Auſtria,</hi> whoſe election may be free to ſome Kingdome, may take to wife the <hi>Sultana,</hi> who may imbrace the Catholike Religion. Fourthly, that the uſe of ſlaves be quite taken off for the future on both fides, and thoſe that are now in quality of Captifs may be freely releas'd, and reſtor'd without ranſome. Now there is intelligence certainly ſent, that the <hi>Sultana,</hi> who is the grand Turks ſiſter, and ſome five years ſince was taken by the <hi>Malteſes,</hi> is converted to the Catholike Faith.</p>
+            <p>To theſe advertiſements, I ſhall adde the preſents which the Turkiſh Ambaſſador brought the King of Spain, and were tendred with much ſolemnity.</p>
+            <p>Firſt, there were four Lions with golden chains, and collars alſo emboſs'd with pure gold, whereon were en<g ref="char:EOLhyphen"/>graven the Armes of his royall Majeſty. Secondly, there were twelve Cimiters with maſſie gold hilts, and ſcab<g ref="char:EOLhyphen"/>bards tied to gold chains, and curiouſly ingraven on the hilts and chapes. Thirdly, there were four cheſts fill'd with Turky knifes, their hafts of maſſie gold, and embroyder'd with pearl of much value. Fourthly, there were twelve U<g ref="char:EOLhyphen"/>nicorns horns, ev'ry one twelve yards long, inlaid with
+<pb n="11" facs="tcp:116109:7"/>gold, and engraven with his Catholique Majeſties Arms. Fiftly, there were four and twenty Turky carpets interwo<g ref="char:EOLhyphen"/>ven with gold and ſilk, on which were drawn thoſe victo<g ref="char:EOLhyphen"/>ries which his Catholike Majeſty had obtain'd ſince he was King. Sixthly, a Coach of Chryſtall and gold figur'd in form of a triremiary gallie, hung with ſails of ſilk in a ſpe<g ref="char:EOLhyphen"/>cious manner, wherein were drawn the triumphs and vic<g ref="char:EOLhyphen"/>tories of his Majeſty. Seventhly, two ſmaller cheſts were fill'd with feathers of high price. Eighthly, there was a great Chriſtal box imbroyder'd with pearl, which contain'd forty fair Bezar ſtones. ev'ry one weighing fourteen oun<g ref="char:EOLhyphen"/>ces. Ninthly, there was a coverlet for a bed, beautified with forty ſtars, whereon <hi>Caeſars</hi> victories were deſcrib'd. Laſt<g ref="char:EOLhyphen"/>ly, ſix horſes white and black, with ſo many turkiſh ſlaves.</p>
+            <p>Touching the reality of this Embaſſie, and what the ſuc<g ref="char:EOLhyphen"/>ceſſe will be, we yet ſuſpend our judgment, for the tranſ<g ref="char:EOLhyphen"/>actions of things are carried ſo privately, that they are kept from vulgar knowledge, as indeed all great affairs of State ſhould be.</p>
+            <p>Beſides this Turkiſh Ambaſſador &amp; divers others, there are here two Engliſh Ambaſſadors, one for the King of Scot<g ref="char:EOLhyphen"/>land, as they term him here, and the other from the States of England: The firſt is the Lord <hi>Cottington,</hi> who was once your Lord high Treaſurer of England, who hath about twelve in his company, yet hath he a fair Palace, two Coaches attending him, and diet for himſelf and his fami<g ref="char:EOLhyphen"/>ly, all upon this Kings charge, but he grows daily more and more out of requeſt, as all uſe to do in time when they live upon another mans charge. 'Tis true, that they were here at firſt very ſenſible of your late Kings death, and of the manner of it, and they reſent it ſtill as he was a King and Soveraign Prince, but as he was an hereticall King, as they term'd him here, they were rather glad of it, it being ſuch a brand to the reformed Religion, and an advantage
+<pb n="12" facs="tcp:116109:8"/>to theirs; people do commonly uſe to deride an Engliſh<g ref="char:EOLhyphen"/>man when they meet him, ſaying, what's become of your great Defender of the Faith? what's become of your Queen, the daughter of <hi>Henry</hi> the Great? had ſhe been of the houſe of Auſtria ſhe ſhould not have been left ſo long unrevenged: Our <hi>Infanta Donna Maria</hi> had not been ſo bu<g ref="char:EOLhyphen"/>ſie, and you had proſper'd better by her, but you would have none of her, and ſee what's become of you; Now, who can blame our King to aſſiſt the Subjects of England, conſidering how often your Kings did adhere to the Hol<g ref="char:EOLhyphen"/>landers, his revolted Subjects, againſt him?</p>
+            <p>Your Parliaments Agent is but lately arriv'd, and he had all the reſpects and formalities that a Soveraign Miniſter of State could expect, he had two Audiences the three firſt daies he came, one publique, the other private, with <hi>Don Luis de Haro</hi> the Favorite, who ſwaies moſt; And though this Agent be of a complexion that the Spaniards do hate, for they paint <hi>Judas</hi> alwaies with red hair, yet there hath not been the leaſt affront or indignity offer'd him yet. 'Tis thought generally here, that this Crown will make a league and confederate with your State, provided they engage with him to recover the Kingdome of Portu<g ref="char:EOLhyphen"/>gall; for Spain hath been obſerv'd to prefer alwaies her own intereſt before any friendſhip. The news here is from <hi>Lisbon,</hi> that your Parliaments Fleet by hovering upon thoſe ſeas, and half blocking up the mouth of the River, do much infeſt thoſe coaſts, and utterly deſtroy trading, ſo that King <hi>John</hi> is thought to be in a ſad condition, and cannot tell what Saint to pray unto. The King of France his chiefeſt Confederate, and Protector in a manner, hath written lately peremptory letters unto him, that he ſhould favor and adhere to Prince <hi>Rupert,</hi> who as 'tis bruited here, is upon ſelling away his Ships unto him.</p>
+            <p>They give Porto Longone here to be as good as retaken
+<pb n="13" facs="tcp:116109:8"/>upon the Coaſts of Italy, and they promiſe themſelves great ſucceſſes againſt the French this year, yet they com<g ref="char:EOLhyphen"/>plain againſt the Hollander, that he hath broke the Capitu<g ref="char:EOLhyphen"/>lations of peace in divers things.</p>
+            <p>There was one attempting to tranſlate your late Kings Book into Spaniſh, but he was ſurpriz'd, the copy ſup<g ref="char:EOLhyphen"/>preſs'd, and the Tranſlator hardly eſcap'd the Inquiſition, becauſe it contains ſom paſſages offenſive to the Church of Rome; and had it been publiſh'd, 'tis thought it had run the ſame fate as King <hi>James's Confeſsio Fidei</hi> did, which was publikely burnt by the Officer of the Inquiſi<g ref="char:EOLhyphen"/>tion in times paſs'd.</p>
+            <p>The Engliſh Roman Catholikes here are in great hopes, that if there be a league ſtruck betwixt this King and your State, the Recuſants in England and Ireland will be bet<g ref="char:EOLhyphen"/>ter us'd.</p>
+            <p>There is a freſh report that the young Queen is already with child, though ſom think that this report proceeds ra<g ref="char:EOLhyphen"/>ther from hopes then truth; if it prove ſo, and that ſhe be deliver'd of a male, I believe a treaty wil quickly be ſet on foot to match the young Infanta, who is like to be a goodly Lady; till then, ſhe may haply prove a State Maid, before ſhe be ſuffer'd to have a husband.</p>
+            <p>This is all that the Spaniſh Court affords for the pre<g ref="char:EOLhyphen"/>ſent, at leaſt 'tis all that I dare truſt under ſeal; by the next you ſhall hear further from me, provided that you be pun<g ref="char:EOLhyphen"/>ctuall in the continuance of this monethly correſpon<g ref="char:EOLhyphen"/>dence; ſo I pray God guard you, and guide you in all your affaires and purpoſes.</p>
+            <closer>
+               <signed>Your true friend to love and ſerve you, <hi>T. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
